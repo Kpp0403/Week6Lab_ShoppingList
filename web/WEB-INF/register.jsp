@@ -35,7 +35,7 @@
             </table>
         </form>
         <c:if test="${invalid == true}">
-            <p>*Please check Username and/or Password. Enter Correct details.</p>
+            <p>*Please check Username. Enter Correct details.</p>
         </c:if>
     </body>
 </html>
